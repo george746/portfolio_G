@@ -77,8 +77,15 @@ section h2{
     text-shadow: .1rem .1rem 0 var(--color-default-global);
 }
 header h1 .material-icons{
-    display: none;
+    display: inline-block;
     cursor: pointer;
+}
+.Projet {
+    margin: auto;
+    font-size: 2rem;
+    text-decoration: underline;
+    color: blue;
+    text-align: center;
 }
 section h2{
     top:0;
